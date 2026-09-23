@@ -26,6 +26,7 @@ int main(void)
     // print a farewell message for the specified user
     farewell("Developer A,B,C");
 
+    // print a check-in message for the specified user
     checkin("Developer A,B,C");
     return 0;
 }
