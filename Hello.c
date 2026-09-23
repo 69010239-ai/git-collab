@@ -8,6 +8,7 @@ int greeting(const char *name)
 
 int main(void)
 {
+    //print a greeting messafe for the specified user
     greeting("Developer A,B,C !!");
     return 0;
 }
